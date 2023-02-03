@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+
+.big-title{
+    font: bolder;
+    color: orange   ;
+    font-size: 45px;
+}
+
+
+.second-class{
+    padding: 25px;
+    margin: 20px;
+}
+
